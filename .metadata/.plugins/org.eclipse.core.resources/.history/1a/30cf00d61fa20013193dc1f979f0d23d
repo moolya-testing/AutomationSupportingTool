@@ -7,12 +7,10 @@ package com.counter.timer;
  *          <p>
  *          Description :
  *          </p>
- *          <ul>
- *          <li>
+ *          <p>
  *          This is simple StopWatch class and it will give "Start" and "Stop"
- *          functions with elapsed time</li>
- *          </ul>
- * 
+ *          functions with elapsed time
+ *          </p>
  * 
  */
 public class StopWatch {

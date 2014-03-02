@@ -1,17 +1,8 @@
 package com.counter.timer;
 
 /**
- * @author manikandan
+ * @author manikandan 
  * @version 0.1
- * 
- *          <p>
- *          Description :
- *          </p>
- *          <ul>
- *          <li>
- *          This is simple StopWatch class and it will give "Start" and "Stop"
- *          functions with elapsed time</li>
- *          </ul>
  * 
  * 
  */
